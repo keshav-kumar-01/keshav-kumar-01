@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Web developer and AI/ML enthu from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-kumar-01&label=Profile%20views&color=0e75b6&style=flat" alt="keshav-kumar-01" /> </p>
+<a href="https://app.daily.dev/keshavkumar01"><img src="https://api.daily.dev/devcards/v2/8xzwAyutftqP9VD3w15xJ.png?type=default&r=ksg" width="356" alt="Keshav Kumar's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-kumar-01" alt="keshav-kumar-01" /></a> </p>
 
