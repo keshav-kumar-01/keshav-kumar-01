@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/@keshav_kumar_04" target="blank"><img src="https://img.shields.io/twitter/follow/@keshav_kumar_04?logo=twitter&style=for-the-badge" alt="@keshav_kumar_04" /></a> </p>
 
-- 🔭 I’m currently working on **Lung Cancer Detection**
+- 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Development projects**
+- 👯 I’m looking to collaborate on **All Projects**
 
 - 👨‍💻 All of my projects are available at [https://keshav-kumar-01.github.io/CODSOFT-Web-portfolio/](https://keshav-kumar-01.github.io/CODSOFT-Web-portfolio/)
 
